@@ -27,7 +27,7 @@ To set up the project, follow these steps:
 - **Original File**: [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by `Yan Maglinte`  
 - **Modified Version**: [Carl/Ryuko](https://github.com/ryukodeveloper/Ryuko-V4) by `Ryuko Developer`  
 - **FCA Library**: [ws3-fca](https://www.npmjs.com/package/ws3-fca) by `anonymous Philippines [carl]`  
-- **Latest Version**: Varl V6](https://www.github.com/ryukodeveloper/Ryuko-V5)
+- **Latest Version**: Carl V6]https://github.com/carl21pro/Carl-v6
 
 ---
 
