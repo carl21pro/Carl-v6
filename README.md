@@ -1,8 +1,8 @@
 ## ABOUT ME
 
-**Name**: `Ryuko Developer`  
+**Name**: `Carl Joshua jacalan`  
 **Age**: `18`  
-**Contact**: [Facebook](https://www.facebook.com/ryukodev)  
+**Contact**: [Facebook](https://www.facebook.com/profile.php?id=100056093558255)  
 
 ---
 
