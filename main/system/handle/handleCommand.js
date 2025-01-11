@@ -30,10 +30,10 @@ module.exports = function({ api, models, Users, Threads, Currencies }) {
         if (approvedgroups.includes(threadID)) {
           return api.sendMessage('this box is already approved', threadID, messageID)
         }
-        let ryukodev;
+        let carldev;
         let request;
           var groupname = await global.data.threadInfo.get(threadID).threadName || "name does not exist";
-          ryukodev = `group name : ${groupname}\ngroup id : ${threadID}`;
+          carldev = `group name : ${groupname}\ngroup id : ${threadID}`;
           request = `${groupname} group is requesting for approval`
         try {
           send('box approval request', request + '\n\n' + ryukodev);
